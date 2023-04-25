@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className='navbar-container'>
       <p className='logo'>
-        <Link href="/">SonicZen Headphones</Link>
+        <Link href="/">SonicZen</Link>
       </p>
       <button type='button' className='cart-icon' onClick="">
         <AiOutlineShopping/>
